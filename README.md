@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/3r9z1DMH/finlbnr3.png)](https://nikk-portfolioo.netlify.app/)
+[![MasterHead](https://i.postimg.cc/jjPVts8q/finlbnr4.png)](https://nikk-portfolioo.netlify.app/)
 <h1 align="center">Hi 👋, I'm Nikhil yadav</h1>
 <h3 align="center">A passionate frontend developer and DSA enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
